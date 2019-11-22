@@ -22,8 +22,10 @@
 }
 
 .single-listing{
-  height: 40vh;
-  background-color: lightgray;
+  height: 42vh;
+  background-color: rgb(233, 232, 232);
+  border-radius: 10px;
+  margin: 10px;
 }
 
 .carousel-item img {
@@ -35,3 +37,60 @@
   width: 50%;
   height: 80%;
 } */
+
+.Navbar{
+  background-color: #9449ba;
+  /* position:fixed; */
+  width:100%;
+}
+
+#search-bar{
+  width:500px;
+  }
+
+#search-icon{
+    width:auto;
+    height:40px;
+    margin-right:10px;
+    padding:0;
+    border: solid 1px rgba(255, 255, 255, 0.39);
+    margin-left:0;
+    margin-right:20px;
+  }
+
+  #filter-icons{
+    /* margin-top:90px; */
+    margin-left:12px;
+    width:auto;
+    height:30px;
+  }
+
+  #filter-button{
+    background-color: #e0e0e0;
+    font-weight: bold;
+    margin-left:30px;
+    margin-bottom:0px;
+    width:100px;
+    height:40px;
+    /* position:absolute; */
+    border-radius: 10%;
+  }
+
+  #logo{
+    height:50px;
+  }
+
+  .filter-section{
+    height:50px;
+  }
+
+  .listing-title{
+    font-size: 0.8em;
+  }
+
+.map-image img {
+height: 550px;
+width: auto;
+position: relative;
+right: 50px;
+  }

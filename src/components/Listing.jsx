@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-
 export default class Listing extends Component {
 
     constructor(props){
@@ -50,8 +49,9 @@ export default class Listing extends Component {
     }
 
     render() {
+        console.log(this.props.theListing)
         return (
-            <div className="col-6 single-listing">
+            <div className="col-5 single-listing">
                 <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
                     <ol className="carousel-indicators">
                         {this.showIndicators()}
@@ -69,8 +69,7 @@ export default class Listing extends Component {
                     </a>
                 </div>
                 <div className="listing-info">
-                    <span>Listing title</span>
-                    <p>Information about listing</p>
+                    <span className="listing-title">{this.props.theListing.Title}</span>
                 </div>
             </div>
 
