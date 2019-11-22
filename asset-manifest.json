@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/craigslist/static/css/main.b100e6da.chunk.css",
+    "main.js": "/craigslist/static/js/main.0eb1f983.chunk.js",
+    "main.js.map": "/craigslist/static/js/main.0eb1f983.chunk.js.map",
+    "runtime-main.js": "/craigslist/static/js/runtime-main.5419eb64.js",
+    "runtime-main.js.map": "/craigslist/static/js/runtime-main.5419eb64.js.map",
+    "static/js/2.6954ea36.chunk.js": "/craigslist/static/js/2.6954ea36.chunk.js",
+    "static/js/2.6954ea36.chunk.js.map": "/craigslist/static/js/2.6954ea36.chunk.js.map",
+    "index.html": "/craigslist/index.html",
+    "precache-manifest.43b9f5651ea61dab56fc82ca359433d8.js": "/craigslist/precache-manifest.43b9f5651ea61dab56fc82ca359433d8.js",
+    "service-worker.js": "/craigslist/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/craigslist/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/craigslist/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5419eb64.js",
+    "static/js/2.6954ea36.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0eb1f983.chunk.js"
+  ]
+}
